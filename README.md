@@ -81,7 +81,7 @@ código, mas sem precisar instalar nada. O arquivo é o "windows_runner.exe"
 
 First things first. Please, install the required python packages by doing:
 
-```python
+```commandline
 pip install -r requirements.txt
 ```
 
@@ -98,7 +98,7 @@ Depois de rodar o script pela primeira vez, um arquivo chamado 'database.csv' se
 
 Este será o arquivo que o Excel procurará para atualizar a sua referência e seus gráficos.
 
-#### Updating the Excel Sheet
+#### Atualizando a planilha do Excel
 
 Depois de ter alguns dados no arquivo 'database.csv', você pode abrir a planilha "speedtest_results.xlsx" (que funciona
 no Excel 2016+ ou parte do Office 365)
