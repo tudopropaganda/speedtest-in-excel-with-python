@@ -48,7 +48,7 @@ That will be the file that Excel will seek to update its internal database and g
 
 #### Updating the Excel Sheet
 
-After having some data in the database.csv you can open the spreadsheet "speedtest_results.xlsx" (works in Excel 2016+
+After having some data in the database.csv you can open the spreadsheet "speedtest_results.xlsm" (works in Excel 2016+
 or Excel part of Office 365).
 
 You'll have to update the spreadsheet data. For that you can go to:
@@ -100,7 +100,7 @@ Este será o arquivo que o Excel procurará para atualizar a sua referência e s
 
 #### Atualizando a planilha do Excel
 
-Depois de ter alguns dados no arquivo 'database.csv', você pode abrir a planilha "speedtest_results.xlsx" (que funciona
+Depois de ter alguns dados no arquivo 'database.csv', você pode abrir a planilha "speedtest_results.xlsm" (que funciona
 no Excel 2016+ ou parte do Office 365)
 
 Você precisará atualizar a planilha para que os dados mais recentes apareçam. Para isto, vá para:
